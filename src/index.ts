@@ -1,0 +1,1 @@
+export { Anilist as AnilistClient} from "./AnilistClient";
