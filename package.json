@@ -1,6 +1,6 @@
 {
   "name": "anilia",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Anilist GraphQL client",
   "main": "dist/index.js",
   "files": [
